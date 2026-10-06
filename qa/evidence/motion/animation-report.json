@@ -1,0 +1,105 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "reducedMotion": "no-preference",
+      "initial": [
+        {
+          "offset": "0.741572px",
+          "animation": "assemble-piece"
+        },
+        {
+          "offset": "1px",
+          "animation": "assemble-piece"
+        },
+        {
+          "offset": "1px",
+          "animation": "assemble-piece"
+        },
+        {
+          "offset": "1px",
+          "animation": "assemble-piece"
+        },
+        {
+          "offset": "1px",
+          "animation": "assemble-piece"
+        }
+      ],
+      "final": [
+        {
+          "offset": "0px",
+          "animation": "assemble-piece"
+        },
+        {
+          "offset": "0px",
+          "animation": "assemble-piece"
+        },
+        {
+          "offset": "0px",
+          "animation": "assemble-piece"
+        },
+        {
+          "offset": "0px",
+          "animation": "assemble-piece"
+        },
+        {
+          "offset": "0px",
+          "animation": "assemble-piece"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "reducedMotion": "reduce",
+      "initial": [
+        {
+          "offset": "0px",
+          "animation": "none"
+        },
+        {
+          "offset": "0px",
+          "animation": "none"
+        },
+        {
+          "offset": "0px",
+          "animation": "none"
+        },
+        {
+          "offset": "0px",
+          "animation": "none"
+        },
+        {
+          "offset": "0px",
+          "animation": "none"
+        }
+      ],
+      "final": [
+        {
+          "offset": "0px",
+          "animation": "none"
+        },
+        {
+          "offset": "0px",
+          "animation": "none"
+        },
+        {
+          "offset": "0px",
+          "animation": "none"
+        },
+        {
+          "offset": "0px",
+          "animation": "none"
+        },
+        {
+          "offset": "0px",
+          "animation": "none"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "javascript": false,
+      "errors": []
+    }
+  ]
+}

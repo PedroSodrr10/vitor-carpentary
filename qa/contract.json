@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "status": "draft",
+  "title": "Vitor Carpentry | Siding, Roofing & Trim in Cape Cod",
+  "description": "Siding installation and repair, roofing, interior and exterior trim, window and door installation. Call Vitor Carpentry for a free estimate.",
+  "language": "en",
+  "h1": "Built Right. Done Right.",
+  "requiredTexts": [
+    "Built Right. Done Right.",
+    "Siding, roofing, trim, window and door installation for your home.",
+    "Concept image — real project photos coming soon",
+    "Every detail. Every part of home.",
+    "Siding",
+    "Siding installation and repair.",
+    "Roofing",
+    "Roofing services for your home.",
+    "Trim",
+    "Interior and exterior trim.",
+    "Windows",
+    "Window installation.",
+    "Doors",
+    "Door installation.",
+    "A home comes together in the details.",
+    "Let’s Talk About Your Next Project.",
+    "(774) 810-1276",
+    "vitorcarpentry@gmail.com"
+  ],
+  "requiredLinks": [
+    "#services",
+    "#details",
+    "#contact",
+    "#top",
+    "tel:+17748101276",
+    "mailto:vitorcarpentry@gmail.com"
+  ],
+  "sectionIds": [
+    "services",
+    "details",
+    "contact"
+  ],
+  "forbiddenTexts": [
+    "Licensed & Insured",
+    "Our Work",
+    "Testimonials"
+  ]
+}

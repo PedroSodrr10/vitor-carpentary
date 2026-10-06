@@ -1,0 +1,81 @@
+{
+  "url": "http://127.0.0.1:4173",
+  "contentStatus": "draft",
+  "checks": [
+    {
+      "width": 375,
+      "errors": [],
+      "images": [
+        {
+          "alt": "Conceptual coastal house with dark siding, white trim and a pitched roof; not a Vitor Carpentry project.",
+          "complete": true,
+          "naturalWidth": 1536,
+          "src": "/images/optimized/hero-coastal-house.webp"
+        },
+        {
+          "alt": "Conceptual gray siding and white window trim detail; not a completed client project.",
+          "complete": true,
+          "naturalWidth": 1536,
+          "src": "/images/optimized/siding-window-detail.webp"
+        },
+        {
+          "alt": "Conceptual oak door with white interior casing and baseboard; not a completed client project.",
+          "complete": true,
+          "naturalWidth": 1536,
+          "src": "/images/optimized/door-interior-trim.webp"
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "errors": [],
+      "images": [
+        {
+          "alt": "Conceptual coastal house with dark siding, white trim and a pitched roof; not a Vitor Carpentry project.",
+          "complete": true,
+          "naturalWidth": 1536,
+          "src": "/images/optimized/hero-coastal-house.webp"
+        },
+        {
+          "alt": "Conceptual gray siding and white window trim detail; not a completed client project.",
+          "complete": true,
+          "naturalWidth": 1536,
+          "src": "/images/optimized/siding-window-detail.webp"
+        },
+        {
+          "alt": "Conceptual oak door with white interior casing and baseboard; not a completed client project.",
+          "complete": true,
+          "naturalWidth": 1536,
+          "src": "/images/optimized/door-interior-trim.webp"
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "errors": [],
+      "images": [
+        {
+          "alt": "Conceptual coastal house with dark siding, white trim and a pitched roof; not a Vitor Carpentry project.",
+          "complete": true,
+          "naturalWidth": 1536,
+          "src": "/images/optimized/hero-coastal-house.webp"
+        },
+        {
+          "alt": "Conceptual gray siding and white window trim detail; not a completed client project.",
+          "complete": true,
+          "naturalWidth": 1536,
+          "src": "/images/optimized/siding-window-detail.webp"
+        },
+        {
+          "alt": "Conceptual oak door with white interior casing and baseboard; not a completed client project.",
+          "complete": true,
+          "naturalWidth": 1536,
+          "src": "/images/optimized/door-interior-trim.webp"
+        }
+      ]
+    }
+  ],
+  "automatedPassed": true,
+  "visualReview": "reviewed",
+  "productionReady": false
+}
