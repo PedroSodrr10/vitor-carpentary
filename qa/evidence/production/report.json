@@ -1,0 +1,71 @@
+{
+  "url": "https://vitor-carpentary.vercel.app",
+  "contract": "E:\\Dev\\vitor-carpentry\\qa\\contract.json",
+  "contentStatus": "draft",
+  "automatedPassed": true,
+  "visualReview": "pending",
+  "readyForClient": false,
+  "checks": [
+    {
+      "errors": [],
+      "viewport": {
+        "width": 375,
+        "height": 900
+      },
+      "h1Count": 1,
+      "linkCount": 14,
+      "imageCount": 3,
+      "sectionIds": [
+        "services",
+        "details",
+        "contact"
+      ],
+      "keyboardSmoke": {
+        "tag": "A",
+        "visible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "errors": [],
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "h1Count": 1,
+      "linkCount": 14,
+      "imageCount": 3,
+      "sectionIds": [
+        "services",
+        "details",
+        "contact"
+      ],
+      "keyboardSmoke": {
+        "tag": "A",
+        "visible": true
+      },
+      "reducedMotion": true
+    },
+    {
+      "errors": [],
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "h1Count": 1,
+      "linkCount": 14,
+      "imageCount": 3,
+      "sectionIds": [
+        "services",
+        "details",
+        "contact"
+      ],
+      "keyboardSmoke": {
+        "tag": "A",
+        "visible": true
+      },
+      "reducedMotion": true
+    }
+  ],
+  "errors": []
+}

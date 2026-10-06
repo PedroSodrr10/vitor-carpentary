@@ -33,3 +33,8 @@ Confirmar telefone, email, textos, escopo e área atendida. Obter logo original 
 URL atual: http://127.0.0.1:4174. Para reiniciar no PowerShell: `$env:PORT='4174'; npm start`.
 Montagem sequencial dos símbolos de construção e marca provisória; entradas suaves; fotos com aproximação discreta e moldura traçada; fundo técnico sutil; feedback de hover/foco. Movimento reduzido desativa efeitos; sem JS o conteúdo permanece visível.
 Build, tipos e QA responsivo passaram. Testes de montagem, conclusão, preferência reduzida e alteração em tempo real passaram. Evidências em qa/evidence/motion. Inspeção visual feita nos três tamanhos. Sem auditoria completa com leitor de tela.
+
+## Publicação — 05/10/2026
+Publicado com autorização nesta conversa: https://vitor-carpentary.vercel.app.
+Código enviado para https://github.com/PedroSodrr10/vitor-carpentary, main, commit db4f169.
+Vercel READY; URL pública HTTP 200. Smoke responsivo do endereço publicado passou (375/768/1440), evidência qa/evidence/production/report.json. Imagens conceituais e noindex preservados. Continua versão de apresentação sujeita à confirmação do cliente.

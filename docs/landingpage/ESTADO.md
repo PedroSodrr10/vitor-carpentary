@@ -44,3 +44,12 @@ Screenshots desktop, tablet e celular revisadas. Sem chamadas, mensagens, push o
 ## Publicação autorizada — 05/10/2026
 Usuário autorizou commit/push para https://github.com/PedroSodrr10/vitor-carpentary e deploy no Vercel nesta conversa.
 Estado: publicacao-pendente. Escopo: versão de apresentação atual, com imagens conceituais identificadas e noindex; não é aprovação do conteúdo pelo cliente.
+
+## Deploy validado — 05/10/2026
+Estado: publicada-validada (versão de apresentação, conteúdo draft).
+Repositório: https://github.com/PedroSodrr10/vitor-carpentary — branch main.
+Commit da implementação: db4f16926a632b164636b0ac71b6973e7d0ec1a1.
+Vercel: projeto prj_tk8dq3ZILLTALaw6owiLzL5tF1H8, deploy dpl_H3oywJubj4P3z6z8g6L6CuKeJoGF, READY.
+URL: https://vitor-carpentary.vercel.app — HTTP 200, página correta, noindex preservado.
+Smoke publicado passou em 375/768/1440 px: conteúdo, metadados, imagens, links, overflow, console e foco. Evidências: qa/evidence/production/report.json. Screenshot desktop publicada inspecionada.
+Integração GitHub/Vercel conectada. Pendências de conteúdo, contatos e fotos reais seguem válidas; publicação técnica não significa aprovação do cliente.
